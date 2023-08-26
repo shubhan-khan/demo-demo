@@ -1,2 +1,3 @@
 # demo-demo
-This is my first repository
+This is my git first repository
+author - Shubhan Khan
